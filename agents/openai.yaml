@@ -1,0 +1,7 @@
+interface:
+  display_name: "美股战术分析"
+  short_description: "面向美股的事件、流动性与结构化战术分析"
+  default_prompt: "使用 $us-equity-tactical-analysis 分析当前美股市场状态、边际资金、关键触发位，以及主要指数和核心个股的情景路径。"
+
+policy:
+  allow_implicit_invocation: true

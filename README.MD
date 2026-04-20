@@ -1,3 +1,4 @@
+![image](https://yt3.googleusercontent.com/ytc/AIdro_nAqpOOLEI8YDQpSy-UZJIAMhDR6MiIk7E8g2ibI0aQ_g=s160-c-k-c0x00ffffff-no-rj)
 # 美股战术分析 Skill
 
 一个面向大模型的美股分析技能，用于把零散的市场信息整理成可复用的战术分析框架。
